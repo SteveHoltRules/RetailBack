@@ -6,6 +6,8 @@ const ProductTag = require('./ProductTag');
 
 // Products belongsTo Category
 
+// How are these links defined in the index to link the files?
+
 // Categories have many Products
 
 // Products belongToMany Tags (through ProductTag)
